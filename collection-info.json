@@ -1,0 +1,26 @@
+[
+    {
+      "name": "impostors-genesis-aliens",
+      "address": "0x3110EF5f612208724CA51F5761A69081809F03B7",
+      "relevantRounds": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "name": "impostors-ufo",
+      "address": "0xc31085b262B3d57C649F8747E4F083685697176E",
+      "relevantRounds": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "impostors-genesis-pets",
+      "address": "0xEC7f8A34b97AC65caAD3841659F2Cd54285a3950",
+      "relevantRounds": [
+        2
+      ]
+    }
+  ]
