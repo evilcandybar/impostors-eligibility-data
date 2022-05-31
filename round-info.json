@@ -1,5 +1,5 @@
 [
-    { "roundNumber": 0, "description": "UFO" },
-    { "roundNumber": 1, "description": "Pet" },
-    { "roundNumber": 2, "description": "Materials" }
+    { "roundNumber": 0, "description": "UFO", "iconCode": "&#x1f680" },
+    { "roundNumber": 1, "description": "Pet", "iconCode": "&#x1f63c" },
+    { "roundNumber": 2, "description": "Materials", "iconCode": "&#x1F381" }
 ]
