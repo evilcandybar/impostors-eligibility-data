@@ -6,7 +6,8 @@
         0,
         1,
         2
-      ]
+      ],
+      "thumbnailIdentifier": "impostors-ufo-thumbs"
     },
     {
       "name": "impostors-ufo",
@@ -14,13 +15,22 @@
       "relevantRounds": [
         1,
         2
-      ]
+      ],
+      "thumbnailIdentifier": "impostors-ufo-thumbs"
     },
     {
       "name": "impostors-genesis-pets",
       "address": "0xEC7f8A34b97AC65caAD3841659F2Cd54285a3950",
       "relevantRounds": [
         2
-      ]
+      ],
+      "thumbnailIdentifier": "impostors-pet-thumbs"
+    },
+    {
+      "name": "impostors-materials-box",
+      "address": "0x6199a4a9a290b0b77ff2e113abe9d1ad4ab5ac63",
+      "relevantRounds": [
+      ],
+      "thumbnailIdentifier": "impostors-box-thumbs"
     }
   ]
