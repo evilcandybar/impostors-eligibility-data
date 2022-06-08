@@ -1,5 +1,6 @@
 [
+    { "roundNumber": -1, "description": "Alien", "iconCode": "0x1f47d" },
     { "roundNumber": 0, "description": "UFO", "iconCode": "0x1f680" },
     { "roundNumber": 1, "description": "Pet", "iconCode": "0x1f63c" },
-    { "roundNumber": 2, "description": "Materials", "iconCode": "0x1F381" }
+    { "roundNumber": 2, "description": "Material Chest", "iconCode": "0x1F381" }
 ]
