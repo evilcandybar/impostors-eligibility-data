@@ -3,5 +3,5 @@
     { "roundNumber": 0, "description": "UFO", "iconCode": "0x1f680" },
     { "roundNumber": 1, "description": "Pet", "iconCode": "0x1f63c" },
     { "roundNumber": 2, "description": "Material Chest", "iconCode": "0x1F381" },
-    { "roundNumber": 3, "description": "Cosmetic Chest", "iconCode": "0x1F3A9" }
+    { "roundNumber": 3, "description": "Cosmetic Chest", "iconCode": "0x1f3a9" }
 ]
