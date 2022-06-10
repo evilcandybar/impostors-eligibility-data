@@ -6,7 +6,8 @@
       "relevantRounds": [
         0,
         1,
-        2
+        2,
+        3
       ],
       "thumbnailIdentifier": "impostor-small-thumbnails"
     },
@@ -16,7 +17,8 @@
       "round": 0,
       "relevantRounds": [
         1,
-        2
+        2,
+        3
       ],
       "thumbnailIdentifier": "impostors-ufo-thumbs"
     },
@@ -25,7 +27,8 @@
       "address": "0xEC7f8A34b97AC65caAD3841659F2Cd54285a3950",
       "round": 1,
       "relevantRounds": [
-        2
+        2,
+        3
       ],
       "thumbnailIdentifier": "impostors-pet-thumbs"
     },
@@ -34,7 +37,16 @@
       "address": "0x6199a4a9a290b0b77ff2e113abe9d1ad4ab5ac63",
       "round": 2,
       "relevantRounds": [
+          3
       ],
       "thumbnailIdentifier": "impostors-box-thumbs"
+    },
+     {
+      "name": "impostors-cosmetics-chest",
+      "address": "0xea0acbb7449b59bccc5f3d4bc4af882e8afde148",
+      "round": 3,
+      "relevantRounds": [
+      ],
+      "thumbnailIdentifier": "impostors-chest-thumbs"
     }
   ]
