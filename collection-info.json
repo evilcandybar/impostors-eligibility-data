@@ -2,7 +2,7 @@
     {
       "name": "impostors-genesis-aliens",
       "address": "0x3110EF5f612208724CA51F:5761A69081809F03B7",
-      "gigamartId": "656c45bb-0331-5acb-9fd7-41f04d5c164a"
+      "gigamartId": "656c45bb-0331-5acb-9fd7-41f04d5c164a",
       "round": -1,
       "relevantRounds": [
         0,
@@ -15,7 +15,7 @@
     {
       "name": "impostors-ufo",
       "address": "0xc31085b262B3d57C649F8747E4F083685697176E",
-      "gigamartId": "2a10807a-a3c7-5053-a202-f7fcf7c1b028"
+      "gigamartId": "2a10807a-a3c7-5053-a202-f7fcf7c1b028",
       "round": 0,
       "relevantRounds": [
         1,
@@ -27,7 +27,7 @@
     {
       "name": "impostors-genesis-pets",
       "address": "0xEC7f8A34b97AC65caAD3841659F2Cd54285a3950",
-      "gigamartId": "a1df633f-660d-50b5-b90d-c9533540fd57"
+      "gigamartId": "a1df633f-660d-50b5-b90d-c9533540fd57",
       "round": 1,
       "relevantRounds": [
         2,
@@ -38,7 +38,7 @@
     {
       "name": "impostors-materials-box",
       "address": "0x6199a4a9a290b0b77ff2e113abe9d1ad4ab5ac63",
-      "gigamartId" "c67ad5da-46c2-5854-a5b5-e6780c421a02"
+      "gigamartId" "c67ad5da-46c2-5854-a5b5-e6780c421a02",
       "round": 2,
       "relevantRounds": [
           3
@@ -48,7 +48,7 @@
     {
       "name": "impostors-cosmetics-chest",
       "address": "0xea0acbb7449b59bccc5f3d4bc4af882e8afde148",
-      "gigamartId" "0ba02351-31a8-55ca-87c3-1785892d8a20"
+      "gigamartId" "0ba02351-31a8-55ca-87c3-1785892d8a20",
       "round": 3,
       "relevantRounds": [
       ],
